@@ -42,3 +42,5 @@ Also supports 3 device platforms, including:
 * [Via DNS (Port 53 DNS)](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-PC-%28Windows%29#via-dns-port-53-dns)
 
 [Topology Design](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Topology-Design)
+
+[Changelog](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Changelog)
