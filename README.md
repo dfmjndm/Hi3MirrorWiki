@@ -16,6 +16,7 @@ For now, there are just two versions of the game which are supported with this p
 * Southeast Asia (SEA)
 * Global (both Europe and USA Server)
 * Steam (both Europe and USA Server)
+* Mainland China<sup>**[3]**</sup> (**Coming Soon!**)
 
 Also supports 3 device platforms, including:
 * **PC** (via: Hosts, Proxy<sup>**[1]**</sup>, 53 DNS<sup>**[2]**</sup>)
@@ -23,8 +24,10 @@ Also supports 3 device platforms, including:
 * **iOS** (via: DNS over TLS, Proxy<sup>**[1]**</sup>)
 
 ### Notes:
-* <sup>**[1]**</sup> : Proxy support will be ended at December 30<sup>th</sup> 2021
+* <sup>**[1]**</sup> : Proxy support will be ended at December 30<sup>th</sup> 2021. The documentation is also not available anymore.
 * <sup>**[2]**</sup> : Some country's ISP might blocked conventional Port 53 DNS. Please use Hosts method as an alternative.
+* <sup>**[3]**</sup> : Mainland China version is only available for PC.
+
 
 # Pages
 [Introduction](https://github.com/neon-nyan/Hi3MirrorWiki/wiki)
