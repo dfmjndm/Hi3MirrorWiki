@@ -26,7 +26,7 @@ Also supports 3 device platforms, including:
 ### Notes:
 * <sup>**[1]**</sup> : Proxy support will be ended at December 30<sup>th</sup> 2021. The documentation is also not available anymore.
 * <sup>**[2]**</sup> : Some country's ISP might blocked conventional Port 53 DNS. Please use Hosts method as an alternative.
-* <sup>**[3]**</sup> : Mainland China version is only available for PC.
+* <sup>**[3]**</sup> : Mainland China version is only available for PC due to technical difficulties in our back-end.
 
 
 # Pages
