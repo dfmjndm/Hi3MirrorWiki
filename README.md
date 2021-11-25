@@ -16,7 +16,7 @@ For now, there are just two versions of the game which are supported with this p
 * Southeast Asia (SEA)
 * Global (both Europe and USA Server)
 * Steam (both Europe and USA Server)
-* Mainland China<sup>**[3]**</sup> (**Coming Soon!**)
+* Mainland China<sup>**[3]**</sup>
 
 Also supports 3 device platforms, including:
 * **PC** (via: Hosts, Proxy<sup>**[1]**</sup>, 53 DNS<sup>**[2]**</sup>)
