@@ -1,6 +1,6 @@
 # MAINTENANCE NOTICE
 ### Our project is currently under **URGENT MAINTENANCE** due to these changes:
-- Adding `Real-time Data Server` forwarder (due to increase of request for some players who are having problem while using ISP like PLDT and Smart)
+- Adding `Real-time Data Server` forwarder/relay (due to increase of request for some players who are having problem while using ISP like PLDT and Smart)
 - Removing Proxy Support for Android, PC and iPhone
 - Removing iPhone Support for Steam, Global and SEA Version
 - Maintenance on our Internal DNS Record (this may cause some players to experience Intermittent on their connection)
