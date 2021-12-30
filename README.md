@@ -3,9 +3,9 @@
 - Adding `Real-time Data Server` forwarder (due to increase of request for some players who are having problem while using ISP like PLDT and Smart)
 - Removing Proxy Support for Android, PC and iPhone
 - Removing iPhone Support for Steam, Global and SEA Version
-- Maintenance on our Internal DNS Record (this may cause some players to experience Intermitten on their connection)
+- Maintenance on our Internal DNS Record (this may cause some players to experience Intermittent on their connection)
 
-This maintenance will be happening for the next 2 days (until January 1<sup>st</sup> 2021). You can still use this project but you may also experience some Intermitten while getting into the game.
+This maintenance will be happening for the next 2 days (until January 1<sup>st</sup> 2021). You can still use this project but you may also experience some Intermittent while getting into the game.
 
 We are apologize for this inconvenience that caused by this.
 
