@@ -16,17 +16,16 @@ For now, there are just two versions of the game which are supported with this p
 * Southeast Asia (SEA)
 * Global (both Europe and USA Server)
 * Steam (both Europe and USA Server)
-* Mainland China<sup>**[3]**</sup>
+* Mainland China<sup>**[2]**</sup>
 
 Also supports 3 device platforms, including:
-* **PC** (via: Hosts, Proxy<sup>**[1]**</sup>, 53 DNS<sup>**[2]**</sup>)
-* **Android** (via: DNS over TLS, Proxy<sup>**[1]**</sup>)
-* **iOS** (via: DNS over TLS, Proxy<sup>**[1]**</sup>)
+* **PC** (via: Hosts, 53 DNS<sup>**[1]**</sup>)
+* **Android** (via: DNS over TLS</sup>)
+* **iOS** (via: DNS over TLS</sup>)
 
 ### Notes:
-* <sup>**[1]**</sup> : Proxy support will be ended at December 30<sup>th</sup> 2021. The documentation is also not available anymore.
-* <sup>**[2]**</sup> : Some country's ISP might blocked conventional Port 53 DNS. Please use Hosts method as an alternative.
-* <sup>**[3]**</sup> : Mainland China version is only available for PC due to technical difficulties in our back-end.
+* <sup>**[1]**</sup> : Some country's ISP might blocked conventional Port 53 DNS. Please use Hosts method as an alternative.
+* <sup>**[2]**</sup> : Mainland China version is only available for PC due to technical difficulties in our back-end.
 
 
 # Pages
