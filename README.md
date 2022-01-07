@@ -21,7 +21,6 @@ For now, there are just two versions of the game which are supported with this p
 Also supports 3 device platforms, including:
 * **PC** (via: Hosts, 53 DNS<sup>**[1]**</sup>)
 * **Android** (via: DNS over TLS</sup>)
-* **iOS** (via: DNS over TLS</sup>)
 
 ### Notes:
 * <sup>**[1]**</sup> : Some country's ISP might blocked conventional Port 53 DNS. Please use Hosts method as an alternative.
