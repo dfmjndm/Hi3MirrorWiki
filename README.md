@@ -41,7 +41,6 @@ Also supports 3 device platforms, including:
 
 [How to Use on PC (Windows)](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-PC-%28Windows%29)
 * [Via Hosts File](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-PC-%28Windows%29#via-hosts-files)
-* [Via Proxy (Deprecated)](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-PC-%28Windows%29#via-proxy-deprecated)
 * [Via DNS (Port 53 DNS)](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-PC-%28Windows%29#via-dns-port-53-dns)
 
 [Topology Design](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Topology-Design)
