@@ -1,6 +1,4 @@
 # Welcome to the Hi3Mirror wiki!
-We just moved to Github for making this wiki (also making it more organized).
-
 ## Introduction
 ### So, what is Hi3Mirror?<br/>
 Basically, this is an **Update Server Mirror** for **[Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/)** Game made by **[miHoYo](https://www.mihoyo.com/)**.<br/><br/>
