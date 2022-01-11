@@ -1,7 +1,7 @@
 # Welcome to the Hi3Mirror wiki!
 ## Introduction
 ### So, what is Hi3Mirror?<br/>
-Basically, this is an **Update Server Mirror** for **[Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/)** Game made by **[miHoYo](https://www.mihoyo.com/)**.<br/><br/>
+Basically, this is an **Private Mirror Server** for **[Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/)** Game made by **[miHoYo](https://www.mihoyo.com/)**.<br/><br/>
 This project was actually been exist since v4.7 patch but for limited amount of players in the [Official SEA Fans Facebook Group](https://www.facebook.com/groups/2088915844672714) and Ironmaiden's Armada Discord Server which some of them have problem while updating the game using default update server. Some of the problems are 1003x and 1001x error, also "**endless elevator problem**" (which has been fixed in v4.9 patch).
 
 > ![Endless Elevator](https://github.com/neon-nyan/Hi3MirrorWiki/raw/main/images/EndlessElevator.jpg)<br/>
@@ -42,3 +42,9 @@ Also supports 3 device platforms, including:
 [Topology Design](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Topology-Design)
 
 [Changelog](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Changelog)
+
+[Installer Package Mirror](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Installer-Package-Mirror)
+
+[Dictionary File Glossarium](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Dictionary-File-Glossarium)
+
+[Ironmaid Private DNS](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Ironmaid-Private-DNS)
