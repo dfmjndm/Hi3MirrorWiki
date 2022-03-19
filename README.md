@@ -8,7 +8,7 @@ We are apologize for the inconvenience.
 Project: Starfall (formerly known as Hi3Mirror) is a **Private Mirror Server** for **[Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/)**.<br/><br/>
 This project was actually been exist since v4.7 patch but for limited amount of players in the [Official SEA Fans Facebook Group](https://www.facebook.com/groups/2088915844672714) and Ironmaiden's Armada Discord Server which some of them have problem while updating the game using default update server. Some of the problems are 1003x and 1001x error, also "**endless elevator problem**" (which has been fixed in v4.9 patch).
 
-> ![Endless Elevator](https://github.com/neon-nyan/Hi3MirrorWiki/raw/main/images/EndlessElevator.jpg)<br/>
+> ![Endless Elevator](https://github.com/neon-nyan/StarfallProjectWiki/raw/main/images/EndlessElevator.jpg)<br/>
 > The screenshot of looping **"Updating Settings"** or AKA **"Endless Elevator"** problem, which is caused by<br/>connectivity failure to default update server. This issue has been fixed in v4.9 patch.
 
 ***
@@ -30,25 +30,25 @@ Also supports 3 device platforms, including:
 
 
 # Pages
-[Introduction](https://github.com/neon-nyan/Hi3MirrorWiki/wiki)
+[Introduction](https://github.com/neon-nyan/StarfallProjectWiki/wiki)
 
-[API Documentation](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/API-Documentation)
-* [Cache File List](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/API-Documentation#cache-file-list)
-* [Video File List](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/API-Documentation#video-file-list)
+[API Documentation](https://github.com/neon-nyan/StarfallProjectWiki/wiki/API-Documentation)
+* [Cache File List](https://github.com/neon-nyan/StarfallProjectWiki/wiki/API-Documentation#cache-file-list)
+* [Video File List](https://github.com/neon-nyan/StarfallProjectWiki/wiki/API-Documentation#video-file-list)
 
-[How to Use on Mobile (Android)](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-Mobile-%28Android%29)
-* [Via Private DNS (DoT or DoH)](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-Mobile-%28Android%29#via-private-dns-dot-or-doh)
+[How to Use on Mobile (Android)](https://github.com/neon-nyan/StarfallProjectWiki/wiki/How-to-Use-on-Mobile-%28Android%29)
+* [Via Private DNS (DoT or DoH)](https://github.com/neon-nyan/StarfallProjectWiki/wiki/How-to-Use-on-Mobile-%28Android%29#via-private-dns-dot-or-doh)
 
-[How to Use on PC (Windows)](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-PC-%28Windows%29)
-* [Via Hosts File](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-PC-%28Windows%29#via-hosts-files)
-* [Via DNS (Port 53 DNS)](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/How-to-Use-on-PC-%28Windows%29#via-dns-port-53-dns)
+[How to Use on PC (Windows)](https://github.com/neon-nyan/StarfallProjectWiki/wiki/How-to-Use-on-PC-%28Windows%29)
+* [Via Hosts File](https://github.com/neon-nyan/StarfallProjectWiki/wiki/How-to-Use-on-PC-%28Windows%29#via-hosts-files)
+* [Via DNS (Port 53 DNS)](https://github.com/neon-nyan/StarfallProjectWiki/wiki/How-to-Use-on-PC-%28Windows%29#via-dns-port-53-dns)
 
-[Topology Design](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Topology-Design)
+[Topology Design](https://github.com/neon-nyan/StarfallProjectWiki/wiki/Topology-Design)
 
-[Changelog](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Changelog)
+[Changelog](https://github.com/neon-nyan/StarfallProjectWiki/wiki/Changelog)
 
-[Installer Package Mirror](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Installer-Package-Mirror)
+[Installer Package Mirror](https://github.com/neon-nyan/StarfallProjectWiki/wiki/Installer-Package-Mirror)
 
-[Dictionary File Glossarium](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Dictionary-File-Glossarium)
+[Dictionary File Glossarium](https://github.com/neon-nyan/StarfallProjectWiki/wiki/Dictionary-File-Glossarium)
 
-[Ironmaid Private DNS](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Ironmaid-Private-DNS)
+[Ironmaid Private DNS](https://github.com/neon-nyan/StarfallProjectWiki/wiki/Ironmaid-Private-DNS)
