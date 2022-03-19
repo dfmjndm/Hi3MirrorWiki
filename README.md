@@ -1,3 +1,6 @@
+## Attention!!!
+Mainland China mirror is reportedly asking you to update the settings again and agin (currently broken and unusable). We will fix this as soon as we possibly can
+
 # Welcome to the Hi3Mirror wiki!
 ## Introduction
 ### So, what is Hi3Mirror?<br/>
