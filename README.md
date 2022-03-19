@@ -2,10 +2,10 @@
 Mainland China mirror is reportedly asking you to update the settings again and agin (currently broken and unusable). We will fix this as soon as we possibly can.
 We are apologize for the inconvenience.
 
-# Welcome to the Hi3Mirror wiki!
+# Welcome to the Starfall wiki!
 ## Introduction
-### So, what is Hi3Mirror?<br/>
-Basically, this is a **Private Mirror Server** for **[Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/)** Game made by **[miHoYo](https://www.mihoyo.com/)**.<br/><br/>
+### So, what is Starfall?<br/>
+Starfall (formerly known as Hi3Mirror) is a **Private Mirror Server** for **[Honkai Impact 3rd](https://honkaiimpact3.mihoyo.com/)**.<br/><br/>
 This project was actually been exist since v4.7 patch but for limited amount of players in the [Official SEA Fans Facebook Group](https://www.facebook.com/groups/2088915844672714) and Ironmaiden's Armada Discord Server which some of them have problem while updating the game using default update server. Some of the problems are 1003x and 1001x error, also "**endless elevator problem**" (which has been fixed in v4.9 patch).
 
 > ![Endless Elevator](https://github.com/neon-nyan/Hi3MirrorWiki/raw/main/images/EndlessElevator.jpg)<br/>
