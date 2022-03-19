@@ -1,5 +1,5 @@
 ## Attention!!!
-Mainland China mirror is reportedly asking you to update the settings again and agin (currently broken and unusable). We will fix this as soon as we possibly can.
+Mainland China mirror is reportedly asking you to update the settings again and again (currently broken and unusable). We will fix this as soon as we possibly can.
 We are apologize for the inconvenience.
 
 # Welcome to the Project: Starfall wiki!
