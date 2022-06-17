@@ -1,3 +1,13 @@
+# Announcement: This Service is Temporarily Stopped
+Hi Captains,
+It's me, @neon-nyan again.
+We are really sorry that I would like to announce you that **Hi3Mirror** is suspending all its services indefinitely (at least for now until further announcement). We are trying to bring this project back as soon as possible. Also, We need your help to bring this service back and also for its continuity.
+
+We are now opening a fund to help this project to continously run and for now, only Indonesian Digital Wallet is accepted (via DANA).
+
+> # DANA:
+> @neon-nyan / +62 838-7541-2241
+
 # Welcome to the Hi3Mirror wiki!
 ## Introduction
 ### So, what is Hi3Mirror?<br/>
