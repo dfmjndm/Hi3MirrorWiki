@@ -8,6 +8,16 @@ We are now opening a fund to help this project to continously run and for now, o
 > # DANA:
 > @neon-nyan / +62 838-7541-2241
 
+Once again, we are really sorry for your inconvenience regarding to this.
+We are really hoping that this service could be back before June 22nd 2022.
+
+See you again until the next announcement.
+
+Sincerely,
+### **@neon-nyan** - Hi3Mirror Project Creator
+
+***
+
 # Welcome to the Hi3Mirror wiki!
 ## Introduction
 ### So, what is Hi3Mirror?<br/>
