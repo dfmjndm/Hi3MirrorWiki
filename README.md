@@ -1,17 +1,8 @@
-# Announcement: This Service is Temporarily Stopped
+# Announcement: This Service is ~~Temporarily Stopped~~ Now Back to Online!
 Hi Captains,
 It's me, @neon-nyan again.
-We are really sorry that I would like to announce you that **Hi3Mirror** is suspending all its services indefinitely (at least for now until further announcement). We are trying to bring this project back as soon as possible. Also, We need your help to bring this service back and also for its continuity.
-
-We are now opening a fund to help this project to continously run and for now, only Indonesian Digital Wallet is accepted (via DANA).
-
-> # DANA:
-> @neon-nyan / +62 838-7541-2241
-
-Once again, we are really sorry for your inconvenience regarding to this.
-We are really hoping that this service could be back before June 22nd 2022.
-
-See you again until the next announcement.
+We would like to inform you that the service is now **BACK TO ONLINE!**.
+You can now back to use feature in your application that uses this services and we are apologize for the problems from tha past days.
 
 Sincerely,
 ### **@neon-nyan** - Hi3Mirror Project Creator
@@ -68,3 +59,9 @@ Also supports 3 device platforms, including:
 [Dictionary File Glossarium](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Dictionary-File-Glossarium)
 
 [Ironmaid Private DNS](https://github.com/neon-nyan/Hi3MirrorWiki/wiki/Ironmaid-Private-DNS)
+
+# How to support?
+We are now opening a fund to help this project to continously run and for now, only Indonesian Digital Wallet is accepted (via DANA).
+
+> # DANA:
+> @neon-nyan / +62 838-7541-2241
