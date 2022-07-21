@@ -1,14 +1,8 @@
-# Announcement: This Service is Temporarily Stopped ~~Now Back to Online!~~ (For the 2<sup>nd</sup> time)
+# Announcement: This Service is ~~Temporarily Stopped~~ Now Back to Online!
 Hi Captains,
 It's me, @neon-nyan again.
-~~We would like to inform you that the service is now **BACK TO ONLINE!**.
-You can now back to use feature in your application that uses this services and we are apologize for the problems from tha past days.~~
-
-I'm sorry but I would like to inform you that this project has been stopped temporarily (for the second time) and hopefully will be back on July 21st 2022 due to billing issue on hosting provider.
-
-Some features at some project that use this project like [**Collapse**](https://github.com/neon-nyan/CollapseLauncher) and [**BetterHi3Launcher**](https://github.com/BuIlDaLiBlE/BetterHI3Launcher) would be unusable. For this matter, I'm really sorry for the inconvenience.
-
-I hope I can sort this out on July 21st.
+We would like to inform you that the service is now **BACK TO ONLINE!**.
+You can now back to use feature in your application that uses this services and we are apologize for the problems from tha past days.
 
 Sincerely,
 ### **@neon-nyan** - Hi3Mirror Project Creator
