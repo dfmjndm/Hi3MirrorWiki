@@ -1,6 +1,7 @@
 # Announcement: This Service is on **Partial Outages**
 Hi Captains,
 It's me, @neon-nyan again.
+
 We are terribly sorry to announce you that there might be outages for some users regarding to the expiration of our domain and causing some users not being able to use it.
 We are expecting to renewing our domain on September 25th and hope we could bring all the services back up again.
 
