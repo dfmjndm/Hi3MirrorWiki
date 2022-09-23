@@ -1,8 +1,8 @@
-# Announcement: This Service is ~~Temporarily Stopped~~ Now Back to Online!
+# Announcement: This Service is on **Partial Outages**
 Hi Captains,
 It's me, @neon-nyan again.
-We would like to inform you that the service is now **BACK TO ONLINE!**.
-You can now back to use feature in your application that uses this services and we are apologize for the problems from tha past days.
+We are terribly sorry to announce you that there might be outages for some users regarding to the expiration of our domain and causing some users not being able to use it.
+We are expecting to renewing our domain on September 25th and hope we could bring all the services back up again.
 
 Sincerely,
 ### **@neon-nyan** - Hi3Mirror Project Creator
