@@ -1,12 +1,8 @@
-# Announcement: This Service is on **Partial Outages**
+# Announcement: This Service is **Back Online!**
 Hi Captains,
 It's me, @neon-nyan again.
 
-~~We are terribly sorry to announce you that there might be outages for some users regarding to the expiration of our domain and causing some users not being able to use it.
-We are expecting to renewing our domain on September 25th and hope we could bring all the services back up again.~~
-
-### Update: 2022/09/23 - 21:07 GMT+7
-We've been renewing the domain and the service is now gradually get back online and hope will be fully recovered in the next 12 hours. Some users might still facing a problem while using Hi3Mirror. Please wait and try again later.
+TThe service is now fully recovered after hours of waiting. Now, you can back to use this service like normal.
 
 Sincerely,
 ### **@neon-nyan** - Hi3Mirror Project Creator
